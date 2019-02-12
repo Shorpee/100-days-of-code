@@ -28,3 +28,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
+##### ##### ##### #####   ################################################################################################################
+
+### Day 0: February 12, 2019 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Outlined a learning path to master basic wed development fundamentals
+
+**Thoughts**: I was kicked out of a workshop today because i couldn't finish a challenge, so, moving forward i decide i am going to learn html and css basics, master these basics for the next one month
+
+### **Link(s) to work**: [](http://www.example.com)
+
